@@ -1,14 +1,34 @@
-# Project Name
+# Nebo Rangeslider
 
-TODO: Write a project description
+Angular JS wrapper for RangesliderJS
 
 ## Installation
 
-TODO: Describe the installation process
+```
+npm i nebo-rangeslider --save
+```
+
+```
+bower i nebo-rageslider --save
+```
+
 
 ## Usage
 
-TODO: Write usage instructions
+```js
+angular.module('app', [
+  'rangeslider'
+])
+```
+
+or
+
+```
+angular.module('app', [
+  require('nebo-rangeslider')
+]);
+```
+
 
 ## Contributing
 
@@ -20,12 +40,12 @@ TODO: Write usage instructions
 
 ## History
 
-TODO: Write history
+15.06.2016 Initial commit
 
 ## Credits
 
-TODO: Write credits
+Author: Alexey Bondarenko <alexeybondarenko@me.com> (http://bondalex.com/)
 
 ## License
 
-TODO: Write license
+MIT
