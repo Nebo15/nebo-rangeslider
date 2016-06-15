@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('rangeslider', []).directive('rangeslider', function ($timeout) {
+angular.module('rangeslider', []).directive('rangeslider', function () {
 
   return {
     restrict: 'A',

@@ -1,0 +1,25 @@
+{
+  "name": "nebo-rangeslider",
+  "description": "RangesliderJS directive",
+  "main": "rangeslider.js",
+  "authors": [
+    "Alexey Bondarenko <alexeybondarenko@me.com> (http://bondalex.com/)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "rangeslider",
+    "rangesliderjs"
+  ],
+  "homepage": "https://github.com/Nebo15/nebo-rangeslider",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "rangeslider.js": "alexeybondarenko/rangeslider.js#^2.1.1"
+  }
+}
