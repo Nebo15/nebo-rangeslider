@@ -1,0 +1,24 @@
+{
+  "name": "nebo-rangeslider",
+  "version": "1.0.0",
+  "description": "RangesliderJS directive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nebo15/nebo-rangeslider.git"
+  },
+  "keywords": [
+    "angular",
+    "rangeslider",
+    "rangesliderjs"
+  ],
+  "author": "Alexey Bondarenko <alexeybondarenko@me.com> (http://bondalex.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nebo15/nebo-rangeslider/issues"
+  },
+  "homepage": "https://github.com/Nebo15/nebo-rangeslider#readme"
+}
