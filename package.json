@@ -1,6 +1,6 @@
 {
   "name": "nebo-rangeslider",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "RangesliderJS directive",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
   "homepage": "https://github.com/Nebo15/nebo-rangeslider#readme",
   "dependencies": {
     "angular": "^1.4.0",
-    "rangeslider.js": "github:alexeybondarenko/rangeslider.js"
+    "rangeslider.js": "^2.1.1"
   }
 }

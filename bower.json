@@ -1,5 +1,6 @@
 {
   "name": "nebo-rangeslider",
+  "version": "1.0.1",
   "description": "RangesliderJS directive",
   "main": "rangeslider.js",
   "authors": [
@@ -20,6 +21,6 @@
     "tests"
   ],
   "dependencies": {
-    "rangeslider.js": "alexeybondarenko/rangeslider.js#^2.1.1"
+    "rangeslider.js": "^2.1.1"
   }
 }
