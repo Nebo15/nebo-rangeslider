@@ -1,5 +1,7 @@
 # Nebo Rangeslider
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Nebo15/nebo-rangeslider.svg)](https://greenkeeper.io/)
+
 Angular JS wrapper for RangesliderJS
 
 ## Installation
